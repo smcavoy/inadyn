@@ -6,7 +6,7 @@ language: c
 arch: 
   - amd64
   - arm64
-  - armhf
+  - arm32
 
 # Use docker for quicker builds, it now allows https://docs.travis-ci.com/user/apt/
 sudo: false
